@@ -5,7 +5,7 @@ TOKEN = "6363096240:AAHGOXpfVMB5FQi018ieUFF-ZbuGtdCFAK0"
 datiDaSalvare = []
 
 def start(update, context):
-    scelta = update.message.reply_text("Ciao benvenuto nel bot, inizia ad aggiungere le tue note o appuntamenti\n\
+    scelta = update.message.reply_text("Ciao benvenuto nel bot, inizia ad aggiungere le tue note o appuntamenti\
                               Aggiungi per aggiungere\
                               Per eliminare digitare cancella più nome della nota\
                               Visualizza per stampare la lista")
